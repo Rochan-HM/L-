@@ -1,0 +1,6 @@
+pydub
+google
+youtube_dl
+nltk
+autocorrect
+Unidecode
